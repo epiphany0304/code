@@ -148,3 +148,4 @@ except Exception as e:
     print("1. openLCA 正在运行")
     print("2. IPC 服务器已启动（端口8080）")
     print("3. 数据库中存在相应的流程和影响评估方法")
+    print('testtt')
